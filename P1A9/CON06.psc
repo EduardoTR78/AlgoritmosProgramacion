@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON06
 	Definir Dia como entero;
 	Escribir "Introduzca un numero para ver que dia de la semana corresponde:";
@@ -13,3 +15,4 @@ Algoritmo CON06
 		
 	FinSegun
 FinAlgoritmo
+
