@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON08
 	
 	Definir Numero como enteros;
@@ -12,3 +14,4 @@ Algoritmo CON08
 	FinSegun
 	
 FinAlgoritmo
+
