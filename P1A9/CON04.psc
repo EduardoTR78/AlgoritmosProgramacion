@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON04
 	Definir Numero como entero;
 	Escribir "Introduzca un numero entero:";
@@ -9,3 +11,4 @@ Algoritmo CON04
 	FinSi
 	
 FinAlgoritmo
+
