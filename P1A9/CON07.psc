@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON07
 	Definir Mes como entero;
 	Escribir "Introduzca un numero que este relacionado con los mese:";
@@ -19,3 +21,4 @@ Algoritmo CON07
 	FinSegun
 	
 FinAlgoritmo
+
