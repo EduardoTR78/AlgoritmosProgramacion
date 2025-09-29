@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON11
 	Definir Factura como real;
 	Escribir "Valor de la factura:";
@@ -9,3 +11,4 @@ Algoritmo CON11
 		FinSi
 	FinSi
 FinAlgoritmo
+
