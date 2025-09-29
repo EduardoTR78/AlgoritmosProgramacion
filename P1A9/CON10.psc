@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON10
 	Definir Edad Como entero;
 	Definir Genero como Caracter;
@@ -17,3 +19,4 @@ Algoritmo CON10
 		FinSi
 	FinSi
 FinAlgoritmo
+
