@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP01
 	Definir Dividendo, Divisor como Enteros;
 	Definir Ch como Caracter;
@@ -19,3 +21,4 @@ Algoritmo REP01
 
 	
 FinAlgoritmo
+
