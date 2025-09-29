@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP06
 	Definir Numero como entero;
 	
@@ -12,3 +14,4 @@ Algoritmo REP06
 	
 
 FinAlgoritmo
+
