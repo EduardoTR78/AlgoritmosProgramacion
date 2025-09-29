@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON09
 	Definir Numero1, Numero2, T como entero;
 	Escribir "Introduzca el numero 1:";
@@ -17,3 +19,4 @@ Algoritmo CON09
 		Escribir "Numero 2:", Numero2;
 	FinSi
 FinAlgoritmo
+
