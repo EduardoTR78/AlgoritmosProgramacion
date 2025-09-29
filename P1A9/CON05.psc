@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON05
 	Definir Numero como real;
 	Escribir "Introduzca cualquier Numero:";
@@ -8,3 +10,4 @@ Algoritmo CON05
 		Escribir "El Numero es menor o igual a 100:";
 	FinSi
 FinAlgoritmo
+
