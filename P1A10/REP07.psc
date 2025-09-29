@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP07
 	Definir N, Suma como Reales;
 	Definir I como entero;
@@ -13,3 +15,4 @@ Algoritmo REP07
 	Escribir "La media de los numeros es:", Suma / 5 
 	
 FinAlgoritmo
+
