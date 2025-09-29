@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON03
 	Definir Numero como entero;
 	Escribir "Introduzca Numero entero:";
@@ -8,3 +10,4 @@ Algoritmo CON03
 		Escribir "El numero introducido no es multiplo a 5:";
 	FinSi
 FinAlgoritmo
+
