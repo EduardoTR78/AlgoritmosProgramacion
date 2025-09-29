@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP03
 	Definir N como entero;
 	N <- 1 
@@ -9,3 +11,4 @@ Algoritmo REP03
 	FinMientras
 	
 FinAlgoritmo
+
