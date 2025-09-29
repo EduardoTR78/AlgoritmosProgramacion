@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo CON10
 	Definir pares, impares, Suma, Suma1 Como Reales;
 	pares <- 0 
@@ -17,3 +19,4 @@ Algoritmo CON10
 	Fin Mientras
 	
 FinAlgoritmo
+
