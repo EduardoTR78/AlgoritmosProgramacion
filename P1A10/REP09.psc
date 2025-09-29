@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP09
 	Definir N, Suma como reales;
 	Definir I como entero;
@@ -14,3 +16,4 @@ Algoritmo REP09
 	Escribir "El resultados de los negativos es:", Suma
 	
 FinAlgoritmo
+
