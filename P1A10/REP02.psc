@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP02
 	Definir Num como entero;
 	Num <- 0
@@ -6,3 +8,4 @@ Algoritmo REP02
 		Escribir Num
 	Hasta Que Num = 10 
 FinAlgoritmo
+
