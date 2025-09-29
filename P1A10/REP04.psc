@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP04
 	Definir N Como Entero
 	Mientras N <= 100 Hacer
@@ -8,3 +10,4 @@ Algoritmo REP04
 	Fin Mientras
 
 FinAlgoritmo
+
