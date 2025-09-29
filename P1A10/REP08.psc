@@ -1,3 +1,5 @@
+//00597299 EDUARDO TELLEZ RAMIREZ
+
 Algoritmo REP08
 	Definir Suma, N como Reales;
 	N <- 0
@@ -9,3 +11,4 @@ Algoritmo REP08
 	Hasta Que N = 100
 	
 FinAlgoritmo
+
